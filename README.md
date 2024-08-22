@@ -2,10 +2,24 @@
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNsZTJ4bDhnNnBiY21hYzJ6cWFqZzhlZnVycTBrMHczeHZreXM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-- :speech_balloon: Ask me about **MEARN**
-- :mailbox: How to reach me **abubakarrehman395@gmail.com**
-- :zap: Fun fact **I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar420" alt="abubakar420" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
+
+- 💬 Ask me about **https://abubakarrehman.netlify.app/**
+
+- 📫 How to reach me **abubakarrehman395@gmail.com**
+
+- 📄 Know about my experiences [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
+
+- ⚡ Fun fact **I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/its_mee_abubakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mee_abubakar" height="30" width="40" /></a>
+</p>
+
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
