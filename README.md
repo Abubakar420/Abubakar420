@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif)
+<img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" alt="MasterHead" width="400">
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNsZTJ4bDhnNnBiY21hYzJ6cWFqZzhlZnVycTBrMHczeHZreXM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
