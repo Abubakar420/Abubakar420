@@ -1,7 +1,7 @@
 <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" alt="MasterHead" width="100%">
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNsZTJ4bDhnNnBiY21hYzJ6cWFqZzhlZnVycTBrMHczeHZreXM1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 
 - 👨‍💻 All of my projects are available at [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
 
