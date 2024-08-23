@@ -2,7 +2,7 @@
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 
-<div display="flex">
+<div whiteSpace="nowrap">
   <div>
     
 - 👨‍💻 All of my projects are available at<br/> [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
