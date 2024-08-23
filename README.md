@@ -1,4 +1,4 @@
-<img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" alt="MasterHead" width="100%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 
