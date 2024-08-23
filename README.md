@@ -2,7 +2,7 @@
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 
-<table style="width: 100%; border: none; table-layout: fixed;">
+<table style="width: 100% !important; border: none; table-layout: fixed;">
   <tr>
     <td style="width: 100px; vertical-align: top;">
       <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100">
