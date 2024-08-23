@@ -4,7 +4,9 @@
 
 
 
-    
+ <p align="left">
+     
+ 
 - 👨‍💻 All of my projects are available at<br/> [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
 
 - 💬 Ask me about<br/> **https://abubakarrehman.netlify.app/**
@@ -15,7 +17,7 @@
 
 - ⚡ Fun fact **I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!**<br/>
 
-
+ </p>  
     
 <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100">
  
