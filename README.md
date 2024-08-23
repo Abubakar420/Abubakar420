@@ -2,19 +2,19 @@
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 
-<table width="100%" border="none">
+<table style="width: 100%; border: none; table-layout: fixed;">
   <tr>
-    <td>
-      <ul>
+    <td style="width: 100px; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100">
+    </td>
+    <td style="width: calc(100% - 120px); vertical-align: top;">
+      <ul style="list-style-type: none; padding-left: 0;">
         <li>👨‍💻 All of my projects are available at<br/> <a href="https://abubakarrehman.netlify.app/">https://abubakarrehman.netlify.app/</a></li>
         <li>💬 Ask me about<br/> <a href="https://abubakarrehman.netlify.app/">https://abubakarrehman.netlify.app/</a></li>
         <li>📫 How to reach me<br/> <strong>abubakarrehman395@gmail.com</strong></li>
         <li>📄 Know about my experiences<br/> <a href="https://abubakarrehman.netlify.app/">https://abubakarrehman.netlify.app/</a></li>
         <li>⚡ Fun fact<br/> <strong>I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!</strong></li>
       </ul>
-    </td>
-        <td>
-      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100">
     </td>
   </tr>
 </table>
