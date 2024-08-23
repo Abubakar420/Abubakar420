@@ -1,17 +1,18 @@
 <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" alt="MasterHead" width="100%">
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
+
+
+- 👨‍💻 All of my projects are available at<br/> [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
+
+- 💬 Ask me about<br/> **https://abubakarrehman.netlify.app/**
+
+- 📫 How to reach me<br/> **abubakarrehman395@gmail.com**
+
+- 📄 Know about my experiences <br/>[https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
+
+- ⚡ Fun fact **I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!**<br/>
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-
-- 👨‍💻 All of my projects are available at [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
-
-- 💬 Ask me about **https://abubakarrehman.netlify.app/**
-
-- 📫 How to reach me **abubakarrehman395@gmail.com**
-
-- 📄 Know about my experiences [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
-
-- ⚡ Fun fact **I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
