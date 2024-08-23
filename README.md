@@ -3,11 +3,17 @@
 <h3 align="center">A passionate FrontEnd Developer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 - 👨‍💻 All of my projects are available at<br/>.
 https://abubakarrehman.netlify.app<br/><br/>
+
 - 💬 Ask me about<br/> https://abubakarrehman.netlify.app<br/><br/>
+
 - 📫 How to reach me<br/> abubakarrehman395@gmail.com<br/><br/>
-- 📄 Know< my experiences <br/> https://abubakarrehman.netlify.app<br/><br/> ⚡ Fun fact I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!<br/>
+
+- 📄 Know my experiences <br/> https://abubakarrehman.netlify.app<br/><br/> 
+
+  ⚡ Fun fact I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!<br/>
 
 
 <h3 align="left">Connect with me:</h3>
