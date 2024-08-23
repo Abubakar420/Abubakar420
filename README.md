@@ -2,22 +2,18 @@
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 
-<table style="width: 100% !important; border: none; table-layout: fixed;">
-  <tr>
-    <td style="width: 100px; vertical-align: top;">
-      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100">
-    </td>
-    <td style="width: calc(100% - 120px); vertical-align: top;">
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>👨‍💻 All of my projects are available at<br/> <a href="https://abubakarrehman.netlify.app/">https://abubakarrehman.netlify.app/</a></li>
-        <li>💬 Ask me about<br/> <a href="https://abubakarrehman.netlify.app/">https://abubakarrehman.netlify.app/</a></li>
-        <li>📫 How to reach me<br/> <strong>abubakarrehman395@gmail.com</strong></li>
-        <li>📄 Know about my experiences<br/> <a href="https://abubakarrehman.netlify.app/">https://abubakarrehman.netlify.app/</a></li>
-        <li>⚡ Fun fact<br/> <strong>I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar420" alt="abubakar420" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
+
+- 💬 Ask me about **https://abubakarrehman.netlify.app/**
+
+- 📫 How to reach me **abubakarrehman395@gmail.com**
+
+- 📄 Know about my experiences [https://abubakarrehman.netlify.app/](https://abubakarrehman.netlify.app/)
+
+- ⚡ Fun fact **I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
