@@ -2,7 +2,7 @@
 <h1 align="center">Hi :wave:, I'm Abubakar Rehman</h1>
 <h3 align="center">A passionate FrontEnd Developer</h3>
 
-<table>
+<table width="100%" border="none">
   <tr>
     <td>
       <ul>
