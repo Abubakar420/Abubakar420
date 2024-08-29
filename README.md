@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at<br/>
 https://abubakarrehman.netlify.app<br/><br/>
-- 💬 Ask me about<br/> https://abubakarrehman.netlify.app<br/><br/> 
+- 💬 Ask me about<br/> https://abubakarrehman.netlify.app<br/><br/>
 - 📫 How to reach me<br/> abubakarrehman395@gmail.com<br/><br/>
 - 📄 Know my experiences <br/> https://abubakarrehman.netlify.app<br/><br/> 
   ⚡ Fun fact I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic!<br/>
