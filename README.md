@@ -9,7 +9,7 @@ https://abubakarrehman.netlify.app<br/><br/>
 - 💬 Ask me about<br/> https://abubakarrehman.netlify.app<br/><br/>
 - 📫 How to reach me<br/> abubakarrehman395@gmail.com<br/><br/>
 - 📄 Know my experiences <br/> https://abubakarrehman.netlify.app<br/><br/> 
-  ⚡ Fun fact I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic@<br/>
+  ⚡ Fun fact I can turn coffee breaks into coding sessions, all with a bit of JavaScript magic<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
